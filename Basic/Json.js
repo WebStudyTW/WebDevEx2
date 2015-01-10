@@ -6,5 +6,4 @@ var person = {
   }
 };
 
-console.log(person["name"]);
-console.log(person["getPhone"]());
+// print name, phone
